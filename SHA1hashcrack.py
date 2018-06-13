@@ -22,7 +22,7 @@ def try_worst_passwords(origin):
         else:
             print("Password guess ",str(setpass)[2:-1]," does not match, trying next...")
     print("Password not in database, we'll get them next time.")
-#MENU SYSTEM FOR GETTING THE HASH OR PASSWORD TO ATTEMPT TO CRACK
+#MENU SYSTEM FOR GETTING THE HASH OR PASSWORD TO ATTEMPT TO BRUTE FORCE
 def get_hash_or_pw():
     choice = input("Please select 1 to to crack a hash, 2 crack a password.\n>")
     if choice == "1":
