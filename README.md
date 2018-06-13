@@ -8,6 +8,8 @@ Brute force hash - It will take a SHA1 hash, and compare it to SHA1 hashes of th
 
 
 Installation: 
+Run:"git clone https://github.com/sadmin2001/pythonclass.git"
+Run: "cd pythonclass"
 Run "sudo pip3 install -r requirements.txt"
 Run "python3 hash.py"
 
