@@ -11,7 +11,7 @@ Installation:
 Run:"git clone https://github.com/sadmin2001/pythonclass.git"
 Run: "cd pythonclass"
 Run "sudo pip3 install -r requirements.txt"
-Run "python3 hash.py"
+Run "python3 SHA1hashcrack.py"
 
 If you get an error that reads:
 urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:777)>
