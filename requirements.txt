@@ -1,2 +1,2 @@
 hashlib>=3.4
-urllib3==1.22
+urllib3==1.24.2
